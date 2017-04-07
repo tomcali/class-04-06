@@ -1,0 +1,26 @@
+{
+  "name": "programmer",
+  "version": "1.0.0",
+  "description": "work with Programmer object and prototypes",
+  "main": "second.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tomcali/class-04-06.git"
+  },
+  "keywords": [
+    "object",
+    "prototype"
+  ],
+  "author": "Tom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomcali/class-04-06/issues"
+  },
+  "homepage": "https://github.com/tomcali/class-04-06",
+  "dependencies": {
+    "inquirer": "^3.0.6"
+  }
+}
