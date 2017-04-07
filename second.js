@@ -26,8 +26,6 @@ Programmer.prototype.printAll = function() {
   console.log(this.age);
 }
 
-
-
 inquirer.prompt ([
   {
   	name: 'name',
@@ -43,5 +41,5 @@ inquirer.prompt ([
   	message: 'what is your favorite programming language?'
   }
 ]).then(function(answers){
-    console.log('got this far');
+    console.log('got this far'); // this is what you have to do work
 });
